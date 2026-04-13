@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.10)
+project(SystemEnhancer)
+set(CMAKE_CXX_STANDARD 17)
+add_executable(SystemEnhancer main.cpp)
+target_link_libraries(SystemEnhancer user32)

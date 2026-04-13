@@ -1,0 +1,10 @@
+{
+  "features": {
+    "visuals": true,
+    "aim_assist": false,
+    "smoothness": 5.0
+  },
+  "keys": {
+    "menu": "INSERT"
+  }
+}
